@@ -39,4 +39,4 @@ seo:
 layout: post
 excerpt: 'Hey everyone, welcome to the fir....'
 ---
-Hey everyone, welcome to the first every blog post. 
+Hey everyone, welcome to the first ever blog post.
