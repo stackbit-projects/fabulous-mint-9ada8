@@ -28,7 +28,9 @@ seo:
     - name: 'twitter:title'
       value: Sudham Jayanthi's blog
     - name: 'twitter:description'
-      value: The preview of the Fjord theme
+      value: >-
+        This is a blog of myself(Sudham), writing my thoughts & sharing my
+        experiences .
     - name: 'twitter:image'
       value: /_static/app-assets/images/sudham.jpg
       relativeUrl: true
