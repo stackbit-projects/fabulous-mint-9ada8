@@ -60,5 +60,4 @@ seo:
       relativeUrl: true
 layout: contact
 ---
-
-To get in touch fill the form below.
+You can message me through the form below or at workwithsudham@gmail.com!
