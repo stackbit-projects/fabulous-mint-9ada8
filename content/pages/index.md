@@ -15,7 +15,9 @@ seo:
       value: Stackbit Fjord Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fjord theme
+      value: >-
+        This is a blog of myself(Sudham), writing my thoughts & sharing my
+        experiences .
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/images/embed.png
