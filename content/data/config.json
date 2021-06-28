@@ -60,7 +60,7 @@
     "domain": "https://fabulous-mint-9ada8.netlify.app",
     "favicon": "/images/eTGJAdJ7_400x400.jpg",
     "footer": {
-        "content": "lorem-ipsum",
+        "content": "**Contact me at ",
         "links": [],
         "type": "footer"
     }
