@@ -4,7 +4,9 @@ has_more_link: true
 more_link_text: Keep reading
 seo:
   title: The journey of 15 YO dev | Tech Blog
-  description: The preview of the Fjord theme
+  description: >-
+    This is a blog of myself(Sudham), writing my thoughts & sharing my
+    experiences .
   extra:
     - name: 'og:type'
       value: website
