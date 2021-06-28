@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fjord Theme
+      value: Sudham Jayanthi's blog
     - name: 'twitter:description'
       value: The preview of the Fjord theme
     - name: 'twitter:image'
