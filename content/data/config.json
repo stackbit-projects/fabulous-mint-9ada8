@@ -63,5 +63,10 @@
         ]
     },
     "domain": "https://fabulous-mint-9ada8.netlify.app",
-    "favicon": "/images/eTGJAdJ7_400x400.jpg"
+    "favicon": "/images/eTGJAdJ7_400x400.jpg",
+    "footer": {
+        "content": "lorem-ipsum",
+        "links": [],
+        "type": "footer"
+    }
 }
