@@ -1,7 +1,7 @@
 ---
 title: Home
 has_more_link: true
-more_link_text: Keep reading
+more_link_text: dont click
 seo:
   title: The journey of 15 YO dev | Tech Blog
   description: >-
