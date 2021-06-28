@@ -20,7 +20,7 @@ seo:
         experiences .
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/images/embed.png
+      value: /_static/app-assets/images/sudham.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
