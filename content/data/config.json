@@ -6,7 +6,7 @@
         "title": "Sudham Jayanthi",
         "tagline": "Writing my thoughts & sharing my experiences",
         "logo_img_alt": "Fjord Logo",
-        "background_img": "images/header-bg.jpg",
+        "background_img": "/images/sudham.jpg",
         "has_nav": true,
         "nav_links": [
             {
